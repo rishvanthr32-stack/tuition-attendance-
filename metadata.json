@@ -1,0 +1,6 @@
+{
+  "name": "Tuition Attendance",
+  "description": "An elegant, offline-ready Android app for tuition teachers to track student attendance and generate monthly parent reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
